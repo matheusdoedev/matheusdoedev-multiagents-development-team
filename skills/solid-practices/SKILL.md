@@ -1,12 +1,22 @@
 ---
 name: solid-practices
-description: Workflow for applying SOLID principles to achieve maintainable, flexible, and robust object-oriented designs that adapt to changing requirements.
-keywords: SOLID, design principles, maintainability, testability, extensibility
+description: It is a skill that gives capabilities to apply SOLID principles to achieve maintainable, flexible, and robust object-oriented designs that adapt to changing requirements.
 ---
 
-## Description
+- It is a software design style, where the goal is to write code where components are less coupled to each other.
 
-This skill provides a workflow for applying SOLID principles. It emphasizes the five principles that lead to maintainable, testable, and flexible software designs.
+- It is not a good ideia to have a software where the entire application depends of a single component. That makes more difficult to make maintenance, or add more features, because every time I need to make a modification in that component, I must change each component that depend of it.
+
+- Alongside, it is not a good one to have a component that depends of the implementation of another application, instead of depends of the abstract idea (what the component do, instead of how the component do).
+
+- SOLID is a acronym for five principles:
+  - S: Single Responsibility Principle;
+  - O: Open-Closed Principle;
+  - L: Liskov Substitution Principle;
+  - I: Interface Segregation Principle;
+  - D: Dependency Inversion Principle.
+
+## Single Responsibility Principle
 
 ## Scope
 
