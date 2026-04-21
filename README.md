@@ -22,4 +22,13 @@
 
 * Do not clone it if you do not have any ideia about multi-agents workflow, gen ai & agents itself, and about concepts regarding skills on that. If you do not have minimal knowledge about those things, you are not capable to review agents work, and fine-tuning that.
 
+## References
+
+- [Agent Skills Documentation](https://agentskills.io/home)
+- [Use Agent Skills In VSCode](https://code.visualstudio.com/docs/copilot/customization/agent-skills)
+- [Agent Skills Claude Documentation](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
+- [Agent Skills Microsoft Learning](https://learn.microsoft.com/en-us/agent-framework/agents/skills?pivots=programming-language-csharp)
+
+## Copyrights
+
 **Created by:** @matheusdoedev
