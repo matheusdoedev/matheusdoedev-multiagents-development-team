@@ -4,7 +4,7 @@
 
 - My ideia is to use that to enhance my productivity.
 
-- My goal is to fine-tuning those agents and skills myself as I learn new skills, and as I improve the skills and concepts I already have a basic understanding of.
+- My goal is to fine-tuning those agents and skills myself as I learn new skills, and as I improve the skills and concepts I already have some understanding of.
 
 - The idea here isn’t to have a crutch that will do things without me having the slightest idea of what’s going on. It’s important that this team of agents evolves alongside me.
 
