@@ -12,7 +12,9 @@
 
 - The idea is for this team to be a catalyst for my productivity, not a crutch.
 
-- A team that will work under my supervision as a software engineer, because the truth is that the work of a software engineer is much more than just writing code.
+- A team that will work under my supervision as a software engineer, because the truth is that the work of a software engineer is much more than just writing code. This going to allow me to focus much more on create solutions than write code.
+
+- It is a good study tool also, because if at some point I can't fine-tuning a skill and explain about it, and how to use it, it means that I have a gap and I must study!
 
 ## Usage & Configuration
 
